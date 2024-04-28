@@ -3,12 +3,12 @@
 
 ### Lista de repositorios con guías de desarrollo
 
-[DIS8915_variablesCSS](https://github.com/disenoUDP/DIS8915_variablesCSS)
+[VariablesCSS](https://github.com/disenoUDP/DIS8915/tree/main/Variables_css)
 
-[DIS8915_selectores_css](https://github.com/disenoUDP/DIS8915_selectores_css)
+[Selectores_css](https://github.com/disenoUDP/DIS8915/tree/main/Selectores_css)
 
-[DIS8915_branches_ramas](https://github.com/disenoUDP/DIS8915_branches_ramas)
+[Branches_ramas](https://github.com/disenoUDP/DIS8915/tree/main/Branches_ramas)
 
-[DIS8915_navbar](https://github.com/disenoUDP/DIS8915_navbar)
+[Elementos_Navbar](https://github.com/disenoUDP/DIS8915/tree/main/Elemetos_Navbar)
 
-[DIS8915_imagenes](https://github.com/disenoUDP/DIS8915_imagenes)
+[Imágenes](https://github.com/disenoUDP/DIS8915/tree/main/Imagenes)
