@@ -1,0 +1,12 @@
+/* Estilos para el contenedor de la imagen */
+.image-container {
+    width: 50%;     /* Deja los elementos hijos al 50% del ancho */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+}
+
+/* Estilos para la imagen */
+img {
+    display: block; /* Hace que la imagen sea un bloque para permitir el ajuste del tamaño */
+    width: 100%; /* Ancho de la imagen al 100% del contenedor */
+    height: auto; /* Altura automática para mantener la proporción de la imagen */
+}

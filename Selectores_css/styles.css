@@ -1,0 +1,39 @@
+/* selector de elemento p */
+p {
+    color: red;
+}
+
+/* selector de clase titulo */
+.titulo {
+    /* Estilos para elementos con la clase 'titulo' */
+    color: #007bff; /* Color azul */
+    font-size: 24px; /* Tamaño de fuente */
+    font-weight: bold; /* Negrita */
+}
+
+/* selector de clase parrafo */
+.parrafo {
+    /* Estilos para elementos con la clase 'parrafo' */
+    color: #363; /* Color gris oscuro */
+    font-size: 16px; /* Tamaño de fuente */
+    line-height: 1.5; /* Altura de línea */
+}
+
+/* selector para el ID 'pagina' */
+#pagina {
+    color: #0f3; /* Color azul */
+    font-size: 32px; /* Tamaño de fuente */
+    font-weight: bold; /* Negrita */
+}
+
+/* selector para el ID 'parrafo_uno' */
+#parrafo_uno {
+    color: #333; /* Color gris oscuro */
+    font-size: 16px; /* Tamaño de fuente */
+    line-height: 1.5; /* Altura de línea */
+}
+
+/* selector para el ID 'parrafo_dos' */
+#parrafo_dos {
+    font-style: italic; /* Cursiva */
+}

@@ -1,0 +1,15 @@
+/* definir variables globales de color en :root */
+:root {
+  --Color-Primary: #262626;
+  --Color-Secondary: #6f96b2;
+}
+
+/* seleccionar elementos h1 */
+h1 {
+    color: var(--Color-Primary)
+}
+
+/* seleccionar elementos h2 */
+h2 {
+    color: var(--Color-Secondary);
+}
